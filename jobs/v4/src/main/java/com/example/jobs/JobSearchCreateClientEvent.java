@@ -18,11 +18,11 @@ package com.example.jobs;
 
 // [START job_search_create_client_event]
 
-import com.google.cloud.talent.v4beta1.ClientEvent;
-import com.google.cloud.talent.v4beta1.CreateClientEventRequest;
-import com.google.cloud.talent.v4beta1.EventServiceClient;
-import com.google.cloud.talent.v4beta1.JobEvent;
-import com.google.cloud.talent.v4beta1.TenantName;
+import com.google.cloud.talent.v4.ClientEvent;
+import com.google.cloud.talent.v4.CreateClientEventRequest;
+import com.google.cloud.talent.v4.EventServiceClient;
+import com.google.cloud.talent.v4.JobEvent;
+import com.google.cloud.talent.v4.TenantName;
 import com.google.protobuf.Timestamp;
 import java.io.IOException;
 import java.util.Arrays;

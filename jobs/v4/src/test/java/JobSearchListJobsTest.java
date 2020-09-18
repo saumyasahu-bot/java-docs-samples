@@ -28,7 +28,7 @@ public class JobSearchListJobsTest {
   private static final String PROJECT_ID = System.getenv("GOOGLE_CLOUD_PROJECT");
   private static final String TENANT_ID = System.getenv("CTS_TENANT_ID");
   private static final String FILTER =
-      "companyName=\"projects/%s/companies/bdad284d-9aca-4cb9-af09-ce65afcc5d6a\"";
+      "companyName=\"projects/%s/companies/bcfaa49f-2ad9-4dfb-8eac-a29cf1b6713d\"";
   private ByteArrayOutputStream bout;
   private PrintStream out;
 
